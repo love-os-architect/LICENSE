@@ -1,6 +1,6 @@
 # Terms of Use for Love-OS Project
 
-Copyright (c) 2026 [Your Name or GitHub Handle]
+Copyright (c) 2026 [ GitHub love-os-architect ]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
